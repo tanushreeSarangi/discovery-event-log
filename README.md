@@ -1,3 +1,10 @@
+# Files Provided:
+* events_log.csv : contains the Discovery events log data.
+* event.sql : initial sql queries that I wrote to build the code base for the report on. You can run it to get the full report.
+* discover_event_log.ipynb : Jupyter notebook that contains the full code for the report.
+* graphs folder : contains the images of the data visualization for all the tasks.
+* ExecutiveSummary.md : contains the executive summary of the data analysis with all the findings from teh tasks provided.
+
 # Data Analysis Task
 
 Task description and data for candidates applying to be a Data Analyst in the [Discovery department](https://www.mediawiki.org/wiki/Wikimedia_Discovery) at [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Home).
