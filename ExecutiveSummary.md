@@ -3,7 +3,10 @@
 1. What is our daily overall clickthrough rate? How does it vary between the groups?
 
 The daily overall clickthrough rate varies between 68% to 13%.
-
+![click through](https://github.com/tanushreeSarangi/discovery-event-log/blob/master/graphs/ClickThrough.png)
+![session](https://github.com/tanushreeSarangi/discovery-event-log/blob/master/graphs/session_length.png)
+![zero-yield](https://github.com/tanushreeSarangi/discovery-event-log/blob/master/graphs/ZeroYield.png)
+![final-report](https://github.com/tanushreeSarangi/discovery-event-log/blob/master/graphs/FinalReport.png)
 
 2. Which results do people tend to try first? How does it change day-to-day?
 
